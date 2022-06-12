@@ -4,4 +4,6 @@
 *data/raw
 *.vscode 
 *logs
-*YouTubeData-Collector/data*
+*YouTubeData-Collector/data/proc/*
+*YouTubeData-Collector/data/raw/*
+*YouTubeData-Collector/data/tmp/*
