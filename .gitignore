@@ -1,0 +1,7 @@
+**/*.ipynb_checkpoints/
+*.egg-info
+**/__pycache__/*
+*data/raw
+*.vscode 
+*logs
+*YouTubeData-Collector/data*
